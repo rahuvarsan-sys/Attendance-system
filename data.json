@@ -1,0 +1,487 @@
+{
+  "users": [
+    {
+      "id": 1785922577140,
+      "username": "admin",
+      "password_hash": "$2a$10$FW.gSDfiOpi4wPQZ3elzmOKsuq1k1FazQUw.9yMMsMiTJx71zngu.",
+      "role": "admin"
+    },
+    {
+      "id": 1785997547725,
+      "username": "testuser",
+      "password_hash": "$2a$10$Tdo6qEtawppmTPmazzVeDeuKx2fMzFkyJ.jxHEUVKzoZGjKD6U3Xu",
+      "role": "staff"
+    },
+    {
+      "id": 1785997577479,
+      "username": "Rahuvarsan",
+      "password_hash": "$2a$10$vOUSKhxo0mSPyXAUOfknv.pWzNMXw.6zE8sX4w0ODUQN6puixs9iC",
+      "role": "staff"
+    }
+  ],
+  "students": [
+    {
+      "id": 1786012049973.925,
+      "name": "Aatharshen P J",
+      "reg_no": "922525105001",
+      "department": "",
+      "parent_contact": "9842299286"
+    },
+    {
+      "id": 1786012049973.3005,
+      "name": "Arunika M",
+      "reg_no": "922525105002",
+      "department": "",
+      "parent_contact": "9600467799"
+    },
+    {
+      "id": 1786012049973.7542,
+      "name": "Deepak T",
+      "reg_no": "922525105003",
+      "department": "",
+      "parent_contact": "9443515247"
+    },
+    {
+      "id": 1786012049973.856,
+      "name": "Dharani sri A K",
+      "reg_no": "922525105004",
+      "department": "",
+      "parent_contact": "7598195330"
+    },
+    {
+      "id": 1786012049974.3218,
+      "name": "Dharanya M",
+      "reg_no": "922525105005",
+      "department": "",
+      "parent_contact": "8695179411"
+    },
+    {
+      "id": 1786012049974.9414,
+      "name": "Dharshan V V",
+      "reg_no": "922525105006",
+      "department": "",
+      "parent_contact": "9994031121"
+    },
+    {
+      "id": 1786012049974.4214,
+      "name": "Dhikeesh  D",
+      "reg_no": "922525105007",
+      "department": "",
+      "parent_contact": "9965836530"
+    },
+    {
+      "id": 1786012049974.167,
+      "name": "Ganesh A",
+      "reg_no": "922525105008",
+      "department": "",
+      "parent_contact": "6379922759"
+    },
+    {
+      "id": 1786012049974.8052,
+      "name": "Girubha A",
+      "reg_no": "922525105009",
+      "department": "",
+      "parent_contact": "9952640463"
+    },
+    {
+      "id": 1786012049974.7048,
+      "name": "Gobika P",
+      "reg_no": "922525105010",
+      "department": "",
+      "parent_contact": "9865081565"
+    },
+    {
+      "id": 1786012049974.347,
+      "name": "Gokulram K",
+      "reg_no": "922525105011",
+      "department": "",
+      "parent_contact": "6380476138"
+    },
+    {
+      "id": 1786012049974.9656,
+      "name": "Gopika B L",
+      "reg_no": "922525105012",
+      "department": "",
+      "parent_contact": "9715188678"
+    },
+    {
+      "id": 1786012049974.9155,
+      "name": "Gurudev G",
+      "reg_no": "922525105013",
+      "department": "",
+      "parent_contact": "9443083222"
+    },
+    {
+      "id": 1786012049974.6948,
+      "name": "Harish varaje S",
+      "reg_no": "922525105014",
+      "department": "",
+      "parent_contact": "9791582987"
+    },
+    {
+      "id": 1786012049975.3394,
+      "name": "Iniyan S R",
+      "reg_no": "922525105015",
+      "department": "",
+      "parent_contact": "9787538717"
+    },
+    {
+      "id": 1786012049975.2622,
+      "name": "Jeeva J",
+      "reg_no": "922525105016",
+      "department": "",
+      "parent_contact": "9655941224"
+    },
+    {
+      "id": 1786012049975.5134,
+      "name": "Kabilan M L",
+      "reg_no": "922525105017",
+      "department": "",
+      "parent_contact": "8825805398"
+    },
+    {
+      "id": 1786012049975.434,
+      "name": "Kadhiravan U",
+      "reg_no": "922525105018",
+      "department": "",
+      "parent_contact": "9585907112"
+    },
+    {
+      "id": 1786012049975.1296,
+      "name": "Karthi R",
+      "reg_no": "922525105019",
+      "department": "",
+      "parent_contact": "9786473991"
+    },
+    {
+      "id": 1786012049975.713,
+      "name": "Kaushal sakthivel",
+      "reg_no": "922525105020",
+      "department": "",
+      "parent_contact": "9787511936"
+    },
+    {
+      "id": 1786012049975.8704,
+      "name": "Kaveen K",
+      "reg_no": "922525105021",
+      "department": "",
+      "parent_contact": "9884980185"
+    },
+    {
+      "id": 1786012049975.6357,
+      "name": "Kavin R",
+      "reg_no": "922525105022",
+      "department": "",
+      "parent_contact": "8870402387"
+    },
+    {
+      "id": 1786012049975.8425,
+      "name": "Kiruthik D E",
+      "reg_no": "922525105023",
+      "department": "",
+      "parent_contact": "7010156502"
+    },
+    {
+      "id": 1786012049975.5452,
+      "name": "Krishna Prasad A S",
+      "reg_no": "922525105024",
+      "department": "",
+      "parent_contact": "9976396297"
+    },
+    {
+      "id": 1786012049975.4216,
+      "name": "Lithish R",
+      "reg_no": "922525105025",
+      "department": "",
+      "parent_contact": "8973072125"
+    },
+    {
+      "id": 1786012049976.2087,
+      "name": "Madhan Kumar K",
+      "reg_no": "922525105026",
+      "department": "",
+      "parent_contact": "9626780372"
+    },
+    {
+      "id": 1786012049976.3672,
+      "name": "Mallishwaran M",
+      "reg_no": "922525105027",
+      "department": "",
+      "parent_contact": "9751182111"
+    },
+    {
+      "id": 1786012049976.7478,
+      "name": "Mithun S",
+      "reg_no": "922525105028",
+      "department": "",
+      "parent_contact": "9965676362"
+    },
+    {
+      "id": 1786012049976.1914,
+      "name": "Mohamed Yasir",
+      "reg_no": "922525105029",
+      "department": "",
+      "parent_contact": "9894365016"
+    },
+    {
+      "id": 1786012049976.8076,
+      "name": "NAARAYANAN. M V",
+      "reg_no": "922525105030",
+      "department": "",
+      "parent_contact": "9176437022"
+    },
+    {
+      "id": 1786012049976.3882,
+      "name": "NAMASIVAYA. L",
+      "reg_no": "922525105031",
+      "department": "",
+      "parent_contact": "9087026291"
+    },
+    {
+      "id": 1786012049976.9146,
+      "name": "Naresh S",
+      "reg_no": "922525105032",
+      "department": "",
+      "parent_contact": "6382680067"
+    },
+    {
+      "id": 1786012049976.3801,
+      "name": "Nisanth  T",
+      "reg_no": "922525105033",
+      "department": "",
+      "parent_contact": "8098989718"
+    },
+    {
+      "id": 1786012049976.5835,
+      "name": "Nishanth S R",
+      "reg_no": "922525105034",
+      "department": "",
+      "parent_contact": "9626742115"
+    },
+    {
+      "id": 1786012049976.9062,
+      "name": "Nitheen K",
+      "reg_no": "922525105035",
+      "department": "",
+      "parent_contact": "9003772592"
+    },
+    {
+      "id": 1786012049976.1758,
+      "name": "Nithish raja D",
+      "reg_no": "922525105036",
+      "department": "",
+      "parent_contact": "6380791318"
+    },
+    {
+      "id": 1786012049977.661,
+      "name": "Nithisri P P",
+      "reg_no": "922525105037",
+      "department": "",
+      "parent_contact": "9952172559"
+    },
+    {
+      "id": 1786012049977.8252,
+      "name": "Nithya Varshini D",
+      "reg_no": "922525105038",
+      "department": "",
+      "parent_contact": "7010540639"
+    },
+    {
+      "id": 1786012049977.6936,
+      "name": "Pavithra M",
+      "reg_no": "922525105039",
+      "department": "",
+      "parent_contact": "9994225436"
+    },
+    {
+      "id": 1786012049977.1821,
+      "name": "Prabhu P",
+      "reg_no": "922525105040",
+      "department": "",
+      "parent_contact": "7904442305"
+    },
+    {
+      "id": 1786012049977.6304,
+      "name": "Prasanna T R",
+      "reg_no": "922525105041",
+      "department": "",
+      "parent_contact": "9843541630"
+    },
+    {
+      "id": 1786012049978.6753,
+      "name": "Priyadharshini V",
+      "reg_no": "922525105042",
+      "department": "",
+      "parent_contact": "9385731902"
+    },
+    {
+      "id": 1786012049978.585,
+      "name": "Ragavel A",
+      "reg_no": "922525105043",
+      "department": "",
+      "parent_contact": "9159899366"
+    },
+    {
+      "id": 1786012049978.407,
+      "name": "Rahuvarsan P V",
+      "reg_no": "922525105044",
+      "department": "",
+      "parent_contact": "9865543924"
+    },
+    {
+      "id": 1786012049978.7273,
+      "name": "Rakshitha S",
+      "reg_no": "922525105045",
+      "department": "",
+      "parent_contact": "8760580681"
+    },
+    {
+      "id": 1786012049978.0005,
+      "name": "Renuka M",
+      "reg_no": "922525105046",
+      "department": "",
+      "parent_contact": "8883829609"
+    },
+    {
+      "id": 1786012049978.788,
+      "name": "Rithika I",
+      "reg_no": "922525105047",
+      "department": "",
+      "parent_contact": "9443048326"
+    },
+    {
+      "id": 1786012049978.39,
+      "name": "Rohith N",
+      "reg_no": "922525105048",
+      "department": "",
+      "parent_contact": "9787723149"
+    },
+    {
+      "id": 1786012049978.6533,
+      "name": "Sanjaisriram S P",
+      "reg_no": "922525105049",
+      "department": "",
+      "parent_contact": "9442793930"
+    },
+    {
+      "id": 1786012049978.4565,
+      "name": "Saran Raj S",
+      "reg_no": "922525105050",
+      "department": "",
+      "parent_contact": "9566623337"
+    },
+    {
+      "id": 1786012049978.709,
+      "name": "Sibiarasu P",
+      "reg_no": "922525105051",
+      "department": "",
+      "parent_contact": "9361039774"
+    },
+    {
+      "id": 1786012049979.256,
+      "name": "Sipitharan S",
+      "reg_no": "922525105052",
+      "department": "",
+      "parent_contact": "9787429392"
+    },
+    {
+      "id": 1786012049979.1167,
+      "name": "Sowman K M",
+      "reg_no": "922525105053",
+      "department": "",
+      "parent_contact": "9842632099"
+    },
+    {
+      "id": 1786012049979.5732,
+      "name": "Sree Aakaash S A",
+      "reg_no": "922525105054",
+      "department": "",
+      "parent_contact": "9976825375"
+    },
+    {
+      "id": 1786012049979.1663,
+      "name": "Sridharsan B M",
+      "reg_no": "922525105055",
+      "department": "",
+      "parent_contact": "9688241307"
+    },
+    {
+      "id": 1786012049979.0366,
+      "name": "Suhailhasan J",
+      "reg_no": "922525105057",
+      "department": "",
+      "parent_contact": "9843166586"
+    },
+    {
+      "id": 1786012049979.5276,
+      "name": "Sujan S",
+      "reg_no": "922525105058",
+      "department": "",
+      "parent_contact": "7339670805"
+    },
+    {
+      "id": 1786012049979.4253,
+      "name": "Swetha S",
+      "reg_no": "922525105059",
+      "department": "",
+      "parent_contact": "9790474506"
+    },
+    {
+      "id": 1786012049979.423,
+      "name": "Tamilarasan S",
+      "reg_no": "922525105060",
+      "department": "",
+      "parent_contact": "8760981208"
+    },
+    {
+      "id": 1786012049979.9304,
+      "name": "Thanuja R M",
+      "reg_no": "922525105061",
+      "department": "",
+      "parent_contact": "9566714689"
+    },
+    {
+      "id": 1786012049979.1387,
+      "name": "Ubayadhullah J",
+      "reg_no": "922525105062",
+      "department": "",
+      "parent_contact": "9443823376"
+    },
+    {
+      "id": 1786012049979.9207,
+      "name": "Vinothkumar B",
+      "reg_no": "922525105063",
+      "department": "",
+      "parent_contact": "9025766228"
+    },
+    {
+      "id": 1787476799750,
+      "name": "GOWTHAM V",
+      "reg_no": "9225251050301",
+      "parent_contact": "9360807080",
+      "department": "EEE"
+    },
+    {
+      "id": 1787476922698,
+      "name": "KARTHIKEYAN K",
+      "reg_no": "9225251050302",
+      "parent_contact": "7200724587",
+      "department": "EEE"
+    },
+    {
+      "id": 1787476970755,
+      "name": "KUMARAKURUBARAN C",
+      "reg_no": "9225251050303",
+      "parent_contact": "9943787173",
+      "department": "EEE"
+    },
+    {
+      "id": 1787477007372,
+      "name": "SARANRAJ S",
+      "reg_no": "9225251050501",
+      "parent_contact": "9787025207",
+      "department": "EEE"
+    }
+  ],
+  "attendance": []
+}
